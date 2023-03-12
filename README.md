@@ -24,7 +24,7 @@ Simply you can see on below reel video there is a form which take any language m
 
 
 
-https://user-images.githubusercontent.com/115888876/224524986-49601cd1-da26-4177-bf3d-3aba1ef57098.mp4
+https://user-images.githubusercontent.com/115888876/224524986-49601cd1-da26-4177-bf3d-3aba1ef57098.mp4 https://youtube.com/shorts/X8IBqJN4DD4?feature=share
 
 
 
