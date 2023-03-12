@@ -86,3 +86,22 @@ Naive Bayes is a useful classification algorithm that can produce accurate resul
 From the above file and folder you can also build this Project and test the model. It is not necessary to follow my step what I done.You can create you own step. Necessary and important is that how does it work and how it is build in. There are many algorithm we should know how to choose the algorithm and other multiple step are there which should you know. Thank you☺️☺️☺️
 
 ### Best of luck for your Project
+
+# Contact with me 
+1. Instagram:
+https://www.instagram.com/bohara_chhetri/
+
+2. Check out the YouTube channel 🔗
+https://www.youtube.com/ @sudipbohara5976  
+
+3. LinkeIn:
+https://www.linkedin.com/in/sudip-bohara-chhetri-2534b0259/
+
+4. Facebook:
+https://www.facebook.com/profile.php?id=100027496141043
+
+5. Github:
+https://github.com/sudip125
+
+6. Kaggle
+https://www.kaggle.com/sudip11
