@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Popping',sans-serif;
+
+}
+
+body{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+background: linear-gradient(to top right, rgba(134, 140, 142, 1.0), rgba(91, 101, 101, 1.0));
+}
+
+.container{
+    max-width: 600px;
+    width: 80%;
+    height:auto;
+    background:#fff ;
+    border-radius: 20px;
+    border: 2px solid black;
+}
+
+.container .header{
+ text-align: center;
+ /* padding: 15px 0px 10px 0px; */
+}
+
+h1, h3{
+    text-shadow: 2px 4px 4px rgba(0,0,0,0.52);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 900px;
+}
+.form1 span{
+    font-size: large;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+}
+.form1 {
+    margin: 0px 2px;
+    height: 100%;
+}
+.textarea{
+    text-align: center;
+    margin: 0;
+    width: 100%;
+    height: 381px;
+    border: 2px solid lightblack;
+    box-sizing: border-box;
+    font-size: 20px;
+    resize: none;
+    border-radius: 8px 8px 0 0;
+    padding-top: 30%;
+  }
+
+  textarea {
+    margin: 0px;
+    width: 100%;
+    height: 390px;
+    padding: 12px 10px;
+    border: 2px solid lightblack;
+    box-sizing: border-box;
+    font-size: 16px;
+    resize: none;
+    border-radius: 8px 8px 0 0;
+  }
+  
+ .loading{
+    height:100%;
+    width: 100%;
+    background-color: bisque;
+    text-align: center;
+    padding:9%;
+}
+div#result{
+    text-align:left;
+    background-color: #fff;
+    font-size: large;
+    font-weight: bolder;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.button input[type='reset']{
+    background-color:rgb(107, 236, 107);
+    color: white; /* White text */
+    padding: 10px 24px; /* Some padding */
+    cursor: pointer; /* Pointer/hand icon */
+    float: left; /* Float the buttons side by side */
+    width: 50%;
+    border: none;
+    border-radius:0 0 0 19px;
+    font-size: large;
+    font-weight: 200px;
+  }
+
+  .button input[type='submit']{
+    background-color:rgb(84, 239, 239);
+    color: white; /* White text */
+    padding: 10px 24px; /* Some padding */
+    cursor: pointer; /* Pointer/hand icon */
+    float: left; /* Float the buttons side by side */
+    width: 49%;
+    border:none;
+    margin-left:1% ;
+    border-radius:0 0 19px 0;
+    font-size: large;
+    font-weight: 200px;
+  }
+  

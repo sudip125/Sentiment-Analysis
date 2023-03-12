@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/styles.css') }}">
+
+    <title>Sentiment Analysis</title>
+
+</head>
+<body>
+
+    <div class="container">
+
+    <!--Sentiment Analysis Text Section-->
+    <div class="header">
+        <h1>Sentiment</h1>
+        <h3>Analysis</h3>
+    </div>
+
+        <!--Form Section-->
+        <form action="{{ url_for('predict')}}" method="POST">
+            <div class="form1">
+            <span>Review Here:</span>
+            <br>
+
+            <!-- Text field -->
+            <textarea name="review"  placeholder="Enter your Reviews..." required></textarea>
+            </div>
+
+            <div id="result">Results:</div>
+
+            <!--Loading Section-->
+            <div class="loading" id="predict">
+                <h1>Loading....</h1>
+            </div>
+
+             <!-- Button Sectioin-->
+            <div class="button" style="width:100%">
+                <input type="reset" value="Clear" onclick="Clear()">
+                <input type="submit" value="Predict">
+               
+            </div>
+        </form>
+
+    </div>
+
+
+</body>
+</html>
