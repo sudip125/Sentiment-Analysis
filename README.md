@@ -52,7 +52,8 @@ The dataset is split into two sets of 25,000 reviews each - one for training and
 
 The IMDB movie review dataset is widely used for research and development in the field of natural language processing and machine learning. It has been used to develop and test algorithms for sentiment analysis, text classification, and other NLP tasks. The dataset is available for download from various sources, including the official IMDB website and academic research repositories.you can download the dataset form below link.
 
-like here 
+https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+
 ## Which ML Algorithm is used
 
 This dataset is classification problem so you can use below Algorithm:
