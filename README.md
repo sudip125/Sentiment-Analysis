@@ -92,7 +92,7 @@ From the above file and folder you can also build this Project and test the mode
 https://www.instagram.com/bohara_chhetri/
 
 2. Check out the YouTube channel 🔗
-https://www.youtube.com/ @sudipbohara5976  
+https://www.youtube.com/sudipbohara5976  
 
 3. LinkeIn:
 https://www.linkedin.com/in/sudip-bohara-chhetri-2534b0259/
