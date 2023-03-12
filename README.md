@@ -22,7 +22,10 @@ Simply you can see on below reel video there is a form which take any language m
 
 ## Demo Reel Video
 
-https://youtube.com/shorts/X8IBqJN4DD4?feature=share
+
+[![Alt text](![coverpic](https://user-images.githubusercontent.com/115888876/224524916-9eebcaa9-4c11-42e7-bffc-c342c8281d56.png)]([Video Link](https://youtube.com/shorts/X8IBqJN4DD4?feature=share))
+
+
 
 
 ## Why we need Sentiment Analysis
