@@ -23,7 +23,7 @@ Simply you can see on below reel video there is a form which take any language m
 ## Demo Reel Video
 
 
-(![coverpic](https://user-images.githubusercontent.com/115888876/224524916-9eebcaa9-4c11-42e7-bffc-c342c8281d56.png https://youtube.com/shorts/X8IBqJN4DD4?feature=share)
+(![coverpic](https://user-images.githubusercontent.com/115888876/224524916-9eebcaa9-4c11-42e7-bffc-c342c8281d56.png https://youtube.com/shorts/X8IBqJN4DD4?feature=share))
 
 
 
